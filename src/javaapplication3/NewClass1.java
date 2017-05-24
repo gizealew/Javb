@@ -7,7 +7,7 @@ import java.awt.FlowLayout;
 import java.awt.Button;
 public class NewClass1 extends Frame {
   Label lblsecond;
-  
+  System.out.println("");
   public NewClass1(){
       setLayout(new FlowLayout());
       setTitle("awt counter");
